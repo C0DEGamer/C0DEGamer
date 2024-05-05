@@ -6,14 +6,14 @@ SKILLS
 c  
 c++  
 c#  
-javascript 
-php 
-ruby 
-Html 
-css  
-Node js 
-express js 
-react js 
+javascript , 
+php , 
+ruby , 
+Html , 
+css  , 
+Node js , 
+express js , 
+react js , 
 
 etc..  
 
