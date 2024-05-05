@@ -1,7 +1,7 @@
 
 Hi Iam Code Gamer
 
-Iam Interested In Web Development,Game Development,Mchine Learning,CEH,Electronics ,Gaming,EXPLORE/RIDING etc...
+Iam Interested In Web Development,Game Development,Machine Learning,CEH,Electronics ,Gaming,EXPLORE/RIDING etc...
 
 Programming Languages Known:
 
