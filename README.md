@@ -5,7 +5,7 @@ Iam Interested In Web Development,Game Development,Mchine Learning,CEH,Electroni
 
 Programming Languages Known:
 
-I DIDN'T KNOW ALL THE LANGUAGES 100% BUT I KNOW ABOUT 60-70%
+I DIDN'T KNOW ALL THE LANGUAGES 100% BUT I KNOW ABOUT 40-70%
 c,c++,c#,html,css,javascript,php,ruby30%
 
 Operating System Known:
