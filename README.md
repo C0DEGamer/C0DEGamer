@@ -10,12 +10,7 @@ javascript ,
 php , 
 ruby , 
 Html , 
-css  , 
-Node js , 
-express js , 
-react js , 
-brain js
-
+css , 
 etc..  
 
 
