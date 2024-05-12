@@ -1,6 +1,6 @@
 
 
-Skills:-
+SKILLS:-
 
  HTML, CSS, JAVASCRIPT, C, C++, C#, 
 
