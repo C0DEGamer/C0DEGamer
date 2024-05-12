@@ -2,7 +2,7 @@
 
 Skills:-
 
- HTML, CSS, JAVASCRIPT, C, C++, c#, 
+ HTML, CSS, JAVASCRIPT, C, C++, C#, 
 
  RUBY, PHP, 
 
