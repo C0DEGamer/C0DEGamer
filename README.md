@@ -1,17 +1,10 @@
 
-Hi Iam CodeGamer
 
-SKILLS
+Skills:-
 
-c  
-c++  
-c#  
-javascript , 
-php , 
-ruby , 
-Html , 
-css , 
-etc..  
+ HTML, CSS, JAVASCRIPT, C, C++, c#, 
+
+ RUBY, PHP, 
 
 
 
