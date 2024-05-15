@@ -5,7 +5,7 @@ SKILLS:-
 
  HTML, CSS, JAVASCRIPT, C, C++, C#, 
 
- RUBY, PHP, 
+ RUBY, PHP, PYTHON
 
 
 Interested In WebDevelopment/CEH[WHH],etc... 
