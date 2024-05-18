@@ -1,7 +1,9 @@
 Hi Iam Sreeraj. 
 
+My Dedicated Mind And My HardWork Transformed Me As A Programmer. 
 
-SKILLS:-
+
+SKILLS/Languages Known:-
 
  HTML, CSS, JAVASCRIPT, C, C++, C#, 
 
