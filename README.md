@@ -2,6 +2,8 @@ Hi Iam Sreeraj.
 
  Iam 20 years old
 
+ still Studying
+
  SKILLS/LANGUAGES KNOWN:-
 
  HTML, CSS, JAVASCRIPT, C, C++, C#, 
