@@ -7,7 +7,7 @@ Hi Iam Sreeraj.
  RUBY, PHP, PYTHON
 
 
-Interested In WebDevelopment/CEH[WHH],etc... 
+Interested In WebDevelopment/CEH[WHH] And Electrical/Electronics etc... 
 
 
 
