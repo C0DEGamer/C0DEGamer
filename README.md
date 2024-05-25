@@ -2,9 +2,9 @@ Hi Iam Sreeraj.
 
  SKILLS/LANGUAGES KNOWN:-
 
- HTML, CSS, JAVASCRIPT, C, C++, C#, 
-
- RUBY, PHP, PYTHON, x64 assembly 5%
+ HTML, CSS, JAVASCRIPT, C, C++, C#,
+ 
+, PHP, PYTHON, RUBY
 
 
 Interested In WebDevelopment/CEH[WHH] etc... 
