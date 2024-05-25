@@ -4,7 +4,7 @@ Hi Iam Sreeraj.
 
  HTML, CSS, JAVASCRIPT, C, C++, C#, 
 
- RUBY, PHP, PYTHON
+ RUBY, PHP, PYTHON, x64 assembly 5%
 
 
 Interested In WebDevelopment/CEH[WHH] etc... 
