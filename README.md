@@ -1,10 +1,6 @@
 Hi Iam Sreeraj. 
 
  SKILLS/LANGUAGES KNOWN:-
-
- HTML, CSS, JAVASCRIPT, C, C++, C#,
- 
-, PHP, PYTHON, RUBY
 ![icons8-c-48](https://github.com/C0DEGamer/C0DEGamer/assets/154326486/19c2f117-422b-4bef-9677-49a0a0f9fdfa)
 ![icons8-c-48 (2)](https://github.com/C0DEGamer/C0DEGamer/assets/154326486/cd46d38f-3e6d-478a-92fe-76eb5aa214f6)
 ![icons8-c-48 (1)](https://github.com/C0DEGamer/C0DEGamer/assets/154326486/23d2c824-26ee-4c51-9911-822153f1a3c2)
