@@ -1,12 +1,13 @@
 Hi Iam Sreeraj. 
 
  SKILLS/LANGUAGES KNOWN:-
-![icons8-c-48](https://github.com/C0DEGamer/C0DEGamer/assets/154326486/19c2f117-422b-4bef-9677-49a0a0f9fdfa)
-![icons8-c-48 (2)](https://github.com/C0DEGamer/C0DEGamer/assets/154326486/cd46d38f-3e6d-478a-92fe-76eb5aa214f6)
-![icons8-c-48 (1)](https://github.com/C0DEGamer/C0DEGamer/assets/154326486/23d2c824-26ee-4c51-9911-822153f1a3c2)
-![icons8-ruby-48](https://github.com/C0DEGamer/C0DEGamer/assets/154326486/a4c33350-731f-444c-acc4-5165a638d89a)
-![icons8-python-48](https://github.com/C0DEGamer/C0DEGamer/assets/154326486/576fe28a-af2b-4ba6-8d70-c7682ad512f9)
-![icons8-php-16](https://github.com/C0DEGamer/C0DEGamer/assets/154326486/3ab45f2a-f294-4827-831a-024fd04ab212)
-![icons8-javascript-48](https://github.com/C0DEGamer/C0DEGamer/assets/154326486/698b5ae4-d715-42cf-957d-71f70b340aa7)
+
+ 
+![icons8-javascript-48](https://github.com/C0DEGamer/C0DEGamer/assets/154326486/71133b5d-78b2-4d6e-8a77-0c9e8f868457)
+![icons8-c-48](https://github.com/C0DEGamer/C0DEGamer/assets/154326486/d0f8177b-e6e8-4e1e-9bdb-b6646a46e1c9)
+![icons8-c-48 (2)](https://github.com/C0DEGamer/C0DEGamer/assets/154326486/5675e9f8-84dd-4a41-93a5-0fed2b89ba2f)
+![icons8-c-48 (1)](https://github.com/C0DEGamer/C0DEGamer/assets/154326486/d290a879-1da5-4b31-98fe-16fabc9f9b7d)
+![icons8-ruby-48](https://github.com/C0DEGamer/C0DEGamer/assets/154326486/52ba8e31-f0e2-4317-b9cd-92f9fce80ee9)
+![icons8-python-48](https://github.com/C0DEGamer/C0DEGamer/assets/154326486/64f80b3f-69bd-4583-8406-9eae4ada25ff)
 
 
