@@ -14,7 +14,7 @@ Hi Iam Sreeraj.
 ![icons8-python-48](https://github.com/C0DEGamer/C0DEGamer/assets/154326486/64f80b3f-69bd-4583-8406-9eae4ada25ff)
 ![icons8-php-40](https://github.com/C0DEGamer/C0DEGamer/assets/154326486/b3be6120-608d-4873-9ce2-a13b43a0fd25)
 
-Frameworks Known
+FRAMEWORKS
 
 ![icons8-node-js-48](https://github.com/C0DEGamer/C0DEGamer/assets/154326486/887aadc8-ada8-4746-8b4e-983f68610e3f)
 ![icons8-react-js-48](https://github.com/C0DEGamer/C0DEGamer/assets/154326486/57bd8f4b-b548-4380-a541-fa97d5c01467)
